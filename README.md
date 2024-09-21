@@ -3,7 +3,7 @@ This is a Java-based Library Management System that allows users to manage books
 
 *Features:-
 
-1)Add, Update, and Remove Books.
+1)Adduser, AddBooks, and listBooks in the library database.
 
 2)Borrow and Return Books with real-time availability status.
 
