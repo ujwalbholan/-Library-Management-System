@@ -4,11 +4,15 @@ This is a Java-based Library Management System that allows users to manage books
 *Features:-
 
 1)Add, Update, and Remove Books.
+
 2)Borrow and Return Books with real-time availability status.
+
 3)Persistent storage using MySQL database.
 
 *Technologies Used:-
 
 1)Core Java (OOP, Collections).
+
 2)JDBC for database connectivity.
+
 3)MySQL for data storage.
